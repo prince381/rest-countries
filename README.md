@@ -1,4 +1,4 @@
-# Frontend Mentor - REST Countries API with color theme switcher
+# REST Countries API with color theme switcher
 
 ## Welcome! 👋
 
@@ -26,5 +26,13 @@ The goal of this project is to allow users to be able to:
 Desktop preview of the design.
 ![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)
 
-Mobile preview of the design
-![Design preview for the REST Countries API with color theme switcher coding challenge](./design/mobile-design-home-dark.jpg)
+or view the complete project at [theglobe.netlify.app](https://theglobe.netlify.app)
+
+## Technologies Used
+ * Vue.js
+ * restcountries api
+ * JavaScript
+ * HTML5
+ * CSS3
+ * Webpack
+ * npm
